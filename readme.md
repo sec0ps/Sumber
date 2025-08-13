@@ -6,7 +6,7 @@
 
 ## Overview
 
-Sumber is a comprehensive static application security testing tool that performs deep source code analysis to identify security vulnerabilities aligned with the OWASP Top 10 2021. Built with a modular architecture, it provides detailed vulnerability reports with actionable remediation guidance.
+Sumber is a static application security testing tool that performs deep source code analysis to identify security vulnerabilities aligned with the OWASP Top 10 2021. Built with a modular architecture, it provides detailed vulnerability reports with actionable remediation guidance.
 
 **Current Language Support:** Python (with extensible framework for additional languages)
 
@@ -14,7 +14,7 @@ Sumber is a comprehensive static application security testing tool that performs
 
 ### Key Features
 
-- **OWASP Top 10 2021 Coverage** - Comprehensive detection of injection flaws, authentication issues, cryptographic failures, and more
+- **OWASP Top 10 2021 Coverage** - Detection of injection flaws, authentication issues, cryptographic failures, and more
 - **AST-Based Analysis** - Deep Abstract Syntax Tree parsing for accurate vulnerability detection with Python focus
 - **Professional Reporting** - Rich HTML reports with code highlighting, CWE mappings, and detailed remediation guidance
 - **Configurable Rules** - Extensible rule engine with severity classification and confidence scoring
@@ -138,7 +138,7 @@ Sumber detects vulnerabilities across all OWASP Top 10 2021 categories:
 
 ## Report Features
 
-Sumber generates comprehensive HTML reports with:
+Sumber generates HTML reports with:
 
 - **Executive Summary** - High-level vulnerability statistics and trends
 - **OWASP Category Breakdown** - Issues organized by security category
