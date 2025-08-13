@@ -315,23 +315,27 @@ Most IDEs can run Sumber as an external tool for Python projects:
 
 ---
 
-## 📄 License
+## Contact
+For professional services, integrations, or support contact: operations@redcellsecurity.org
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## License
 
----
+**Author**: Keith Pachulski  
+**Company**: Red Cell Security, LLC  
+**Email**: keith@redcellsecurity.org  
+**Website**: www.redcellsecurity.org  
 
-## 🏢 About Red Cell Security
+© 2025 Keith Pachulski. All rights reserved.
 
-Sumber is developed and maintained by [Red Cell Security, LLC](https://www.redcellsecurity.org), a cybersecurity consultancy specializing in application security, penetration testing, and security tool development.
+**License**: This software is licensed under the MIT License. You are free to use, modify, and distribute this software in accordance with the terms of the license.
 
-### Contact
+## Support My Work
 
-- **Website**: [www.redcellsecurity.org](https://www.redcellsecurity.org)
-- **Email**: keith@redcellsecurity.org
-- **Author**: Keith Pachulski
+If you find my work useful and want to support continued development, you can donate here:
 
+[![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://paypal.me/sec0ps)
 
----
-
-*"Security through transparency and continuous improvement"* - Red Cell Security
+> **DISCLAIMER**:  
+> This software is provided "as-is," without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement. In no event shall the authors or copyright holders
+> be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the software or the use or other dealings in the software.
+> This tool is for educational and research purposes only. Users are responsible for how they deploy and use this honeypot system. Always obtain proper authorization before deploying honeypots in production environments.
